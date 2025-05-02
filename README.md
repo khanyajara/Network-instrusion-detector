@@ -1,8 +1,4 @@
-Sure! Here's a well-structured `README.md` file for your **Network Intrusion Detection System** project. This file is designed to clearly explain the purpose, setup, usage, and other key details of your project.
 
----
-
-```markdown
 # 🛡️ Network Intrusion Detection System (NIDS)
 
 A machine learning-based system for detecting network intrusions using supervised learning techniques. It processes network traffic data, trains a classifier, evaluates performance, and provides real-time predictions to identify malicious activity.
